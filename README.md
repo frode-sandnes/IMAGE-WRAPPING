@@ -10,3 +10,5 @@ To apply the library to a webpage import the imageMultiplexer.js library in the 
 Also ensure that the breakpoints.css is also in the same directory.  The imageMultplexer library will load the tensorflow.js library that is used for detecting the regions of interrest.
 
 to run - the multiplexer is activated in a narrow viewport only. To see the multiplexing, use a strong zoom. Then click on the images to cycle through the regions of interrest.
+
+Note that this is work in progress.
