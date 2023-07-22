@@ -11,4 +11,7 @@ Also ensure that the breakpoints.css is also in the same directory.  The imageMu
 
 to run - the multiplexer is activated in a narrow viewport only. To see the multiplexing, use a strong zoom. Then click on the images to cycle through the regions of interrest.
 
+View the live demo: https://frode-sandnes.github.io/IMAGE-WRAPPING/
+To activate the image wrapping you need to zoom into the image.
+
 Note that this is work in progress.
