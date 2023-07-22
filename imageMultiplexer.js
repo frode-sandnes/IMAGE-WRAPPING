@@ -71,7 +71,7 @@ let idMap = {};
 
 function analyzeImages()  
     {
-    const images = document.getElementsByTagName('img');
+    const images = [ ...document.getElementsByTagName('img')];
     images.forEach((img, imageNo) => 
         {
         startProgressBar(images.length);
